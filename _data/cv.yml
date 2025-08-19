@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Jaya Kambhampaty
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: SM Aerospace Engineering
+      institution: Georgia Institute of Technology, Atlanta, Georgia      
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,12 +19,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: SB Aerospace Engineering
+      institution: Massachusetts Institute of Technology, Cambridge, Massachusetts
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Undergraduate Research on Electroaerodynamic Propulsion (EAD) with Dr. Nicolas Gomez-Vega, Dr. Haofeng Xu, Prof. Steven Barrett.
+        - Systems Design for a Martian ISRU platform for the 2022 NASA RASC-AL Challenge
 
 - title: Experience
   type: time_table
@@ -64,32 +62,93 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+    #   year: 2015-now
+    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Systems Engineering
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Language-based AI for Certification
       items:
         - Description 1.
         - Description 2.
+
+- title: Academic Research Experience
+  type: time_table
+  contents:
+    - title: Domain-specific language models and model-based engineering
+      institution: Georgia Institute of Technology, Aerospace Systems Design Laboratory (ASDL)
+      year: May 2023 - Present
+      description:
+        - Training and dataset curation for aerospace domain language models to accelerate model-based design space exploration
+        - "Advisors: Dr. Olivia J. Pinon Fischer (Principal Research Engineer, Chief of ASDL Digital Engineering Division)"
+        - "Professor Dimitri N. Mavris (Regents' Professor, Boeing Professor of Advanced Aerospace Systems Analysis, Director of ASDL)"
+
+    - title: Tools to enable effective reuse and exchange of digital engineering artifacts
+      institution: Georgia Institute of Technology, Aerospace Systems Design Laboratory (ASDL)
+      year: September 2022 - Present
+      description:
+        - Developing an integrated system for augmenting systems engineering intelligence during early-stage concept development
+        - "Advisors: Dr. Olivia J. Pinon Fischer, Professor Dimitri N. Mavris"
+
+    - title: Predicting rotorcraft mission performance
+      institution: Georgia Institute of Technology, Aerospace Systems Design Laboratory (ASDL)
+      year: September 2022 - May 2023
+      description:
+        - Developing a deep learning surrogate to predict helicopter mission performance in contested operations
+        - "Advisors: Dr. Alicia Sudol (Senior Research Engineer, Chief of ASDL Defense and Space Division)"
+        - "Professor Dimitri N. Mavris"
+
+    - title: "FAA Ascent A82A: Emissions and noise of civil aviation"
+      institution: Georgia Institute of Technology, Aerospace Systems Design Laboratory (ASDL)
+      year: September 2022 - May 2023
+      description:
+        - Technology forecasting of civil aviation noise and engine emissions
+        - "Advisors: Dr. Jimmy C. Tai (Chief of ASDL Advanced Configurations Division, Associate Director of ASDL)"
+        - "Professor Dimitri N. Mavris"
+
+    - title: Electroaerodynamic (EAD) thruster and aircraft development
+      institution: Massachusetts Institute of Technology, Lab for Electroaerodynamic Propulsion
+      year: January 2020 - May 2022
+      description:
+        - Mitigating reverse emission in EAD thrusters
+        - Thruster test and fabrication
+        - Demonstration airframe fabrication support
+        - Electrodynamic modeling of EAD propulsion
+        - "Advisors: Dr. Nicolas Gomez-Vega (Postdoctoral associate, Lab for the Aviation and the Environment)"
+        - "Professor Steven R. H. Barrett (H.N. Slater Professor in Aeronautics and Astronautics, Director of Laboratory for Aviation and the Environment)"
+
+    - title: Using computer vision for uncertainty quantification in EAD propulsion experiments
+      institution: Massachusetts Institute of Technology, Lab for Electroaerodynamic Propulsion  
+      year: May 2019 - August 2019
+      description:
+        - Enabling image data collection from a small-scale high voltage experimental setup
+        - "Advisors: Dr. Haofeng Xu (CEO and Founder, Rotor Technologies; Research affiliate, Lab for the Aviation and the Environment)"
+        - "Professor Steven R. H. Barrett"
+
+- title: Professional Research Experience
+  type: time_table
+  contents:
+    - title: Predicting auroral precipitation
+      institution: Johns Hopkins University Applied Physics Laboratory
+      year: Summer 2022
+      description:
+        - "Advisor: Dr. Elizabeth Mitchell (Postdoctoral Research Scientist)"
+
+    - title: Mission performance of aerospace vehicle concepts
+      institution: Institute for Defense Analyses
+      year: Summer 2020
+      description:
+        - "Advisor: Dr. Christopher Martin (Research Staff Member)"
 
 - title: Other Interests
   type: list
