@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Engineering is about making useful things. Sometimes these things are new (a new civil aircraft design) and sometimes these things are *really* new (a logistics system to get crew and cargo between Earth, Mars, and the Moon). The distinction there isn't really between aero and astro, although aero systems have an accessibility advantage and a mild head start.
+Engineering is about making useful things. Sometimes these things are new (a new civil aircraft design) and sometimes these things are *really* new (a logistics system to get crew and cargo between Earth, Mars, and the Moon). The distinction in novelty there isn't about aero vs. astro, although aero systems have a more accessible domain of operation and as an engineering field a head start.
 
 Systems engineering is about studying the way we achieve these useful things.
 This can be about designing systems, but it can also be about understanding the tradeoffs that are made in realizing them.
