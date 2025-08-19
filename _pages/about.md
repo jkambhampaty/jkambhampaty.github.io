@@ -41,3 +41,9 @@ So right now I'm thinking about:
 **How do we build tools which augment our systems intelligence?**
 
 I'm a graduate student in the Aerospace Engineering PhD Program at Georgia Tech. Before that I got my SM in AE at Georgia Tech and my SB in AeroAstro at MIT.
+
+I'd love to hear from you. I am trying to bridge the fields of aerospace engineering and computer science with a strong bias towards artificially intelligent tooling. There's so many interesting corners to the intersection, and I'm eager to learn from new perspectives.
+
+Thanks for your time!
+
+- Jaya
