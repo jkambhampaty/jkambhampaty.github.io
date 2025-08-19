@@ -241,6 +241,27 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// About page subtitle
+.desc {
+  font-family: 'Tahoma', 'Arial', sans-serif;
+  font-size: 1.125rem;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+// H1 headers styling
+h1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  color: var(--global-text-color);
+  
+  .post-title & {
+    color: $navy;
+  }
+}
+
 // Navbar customization
 
 .navbar {

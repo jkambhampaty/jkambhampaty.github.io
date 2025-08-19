@@ -7,9 +7,8 @@ subtitle: Trying to figure out where (and where not ‼️) to use AI in the des
 profile:
   align: right
   image: jk_pic_3-4.jpg
-  image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Georgia Tech<\p>
+  image_circular: false # crops the image to make it circular
+  more_info:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -35,14 +34,14 @@ In many ways, doing engineering requires becoming very familiar with a set of re
 
 Learning representations of various processes as complicated as language generation from large datasets has been surprisingly effective. But in some ways the results can be unsatisfying. If the representations are embedded in an extremely high-dimensional neural representation, how do we learn and grow from this knowledge as humans?
 
-This observation is fairly basic, but I find it to be a tantalizing problem. AI usage is sweeping across many industries. Keeping track of the complexity of an engineered system was already a problem (think F-35 development timelines) before we started introducing [probabilistic teammates](https://engtechnica.com/p-1-ai-comes-out-of-stealth-to-build-agi-for-engineering-design/).
+This observation is fairly basic, but I find it to be a tantalizing problem. AI usage is sweeping across many industries. Keeping track of the complexity of an engineered system was already a problem (think [F-35 development timelines](https://www.popularmechanics.com/military/aviation/a60191999/f-35-development-road/)) before we started introducing [probabilistic teammates](https://engtechnica.com/p-1-ai-comes-out-of-stealth-to-build-agi-for-engineering-design/).
 
-So right now I'm thinking about:
+So right now I'm thinking about:  
 **How do we build tools which augment our systems intelligence?**
 
-I'm a graduate student in the Aerospace Engineering PhD Program at Georgia Tech. Before that I got my SM in AE at Georgia Tech and my SB in AeroAstro at MIT.
+I'm a graduate student in the Aerospace Engineering PhD Program at Georgia Tech. I got my master's in 2023 from GT and my Bachelor's in 2022 from MIT.
 
-I'd love to hear from you. I am trying to bridge the fields of aerospace engineering and computer science with a strong bias towards artificially intelligent tooling. There's so many interesting corners to the intersection, and I'm eager to learn from new perspectives.
+I'd love to hear from you. I am trying to bridge the fields of aerospace engineering and computer science with a strong bias towards artificially intelligent tooling. There's a lot to learn, and I'm always excited to look at things from a new perspectives.
 
 Thanks for your time!
 
