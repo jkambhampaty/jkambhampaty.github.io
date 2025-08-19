@@ -257,7 +257,7 @@ h1 {
   font-weight: bold;
   color: var(--global-text-color);
   
-  .post-title & {
+  &.post-title {
     color: $navy;
   }
 }
