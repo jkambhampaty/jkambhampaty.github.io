@@ -32,9 +32,14 @@ This can be about designing systems, but it can also be about understanding the 
 There's a lot of communication that goes into the coordination of a team around the thing they're building. This may include decisions about what shared languages and shared views of that system they use.
 In many ways, doing engineering requires becoming very familiar with a set of representations of a vehicle, system, or problem space and having deep insight into how changing the settings of a representational element (design variable, etc.) implicates the system, its performance, and our ability to design it.
 
-Learning representations of various processes as complicated as language generation from large datasets has been surprisingly effective. But in some ways the results can be unsatisfying. If the representations are embedded in an extremely high-dimensional neural representation, how do we learn and grow from this knowledge as humans?
+Learning representations of various processes as complicated as language generation from large datasets has been surprisingly effective. 
+But in some ways the results can be unsatisfying. 
+If the representations are embedded in an extremely high-dimensional, how do we learn from and assimilate this knowledge into our human understanding of the world? 
+How do we move towards a state where we can quickly interpret and understand designs for the really new and perhaps never-before seen system?
 
-This observation is fairly basic, but I find it to be a tantalizing problem. AI usage is sweeping across many industries. Keeping track of the complexity of an engineered system was already a problem (think [F-35 development timelines](https://www.popularmechanics.com/military/aviation/a60191999/f-35-development-road/)) before we started introducing [probabilistic teammates](https://engtechnica.com/p-1-ai-comes-out-of-stealth-to-build-agi-for-engineering-design/).
+This observation is fairly basic, but I find it to be a tantalizing problem. 
+AI usage is sweeping across many industries. 
+Keeping track of the complexity of an engineered system was already a problem (think [F-35 development timelines](https://www.popularmechanics.com/military/aviation/a60191999/f-35-development-road/)) before we started introducing [probabilistic teammates](https://engtechnica.com/p-1-ai-comes-out-of-stealth-to-build-agi-for-engineering-design/).
 
 So right now I'm thinking about:  
 **How do we build tools which augment our systems intelligence?**
@@ -43,6 +48,6 @@ I'm a graduate student in the Aerospace Engineering PhD Program at Georgia Tech.
 
 I'd love to hear from you. I am trying to bridge the fields of aerospace engineering and computer science with a strong bias towards artificially intelligent tooling. There's a lot to learn, and I'm always excited to look at things from a new perspectives.
 
-Thanks for your time!
+Thanks for stopping by!
 
-- Jaya
+\- Jaya
