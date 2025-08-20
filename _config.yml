@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Thinking out loud # blog_name will be displayed in your blog page
-blog_description: an open notebook for polishing ideas
+blog_name: Thinking In Public # blog_name will be displayed in your blog page
+blog_description: an open notebook
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -194,6 +194,10 @@ exclude:
   - _pages/dropdown.md
   - _posts/drafts/
   - _posts/templates/
+  - _projects/
+  - _pages/_projects.md
+  - _pages/cv.md
+
 keep_files:
   - CNAME
   - .nojekyll
